@@ -10,17 +10,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1A1A1A</string>
+				<string>#111111</string>
 				<key>caret</key>
 				<string>#636363</string>
 				<key>foreground</key>
-				<string>#949494</string>
+				<string>#b4b4b4</string>
 				<key>invisibles</key>
 				<string>#212121</string>
 				<key>lineHighlight</key>
-				<string>#212121</string>
+				<string>#414141</string>
 				<key>selection</key>
-				<string>#292929</string>
+				<string>#313131</string>
 			</dict>
 		</dict>
 		<dict>
@@ -288,6 +288,6 @@
 	<key>semanticClass</key>
 	<string>theme.dark.dark_steel_theme</string>
 	<key>author</key>
-	<string>Jerry</string>
+	<string>shaneknysh</string>
 </dict>
 </plist>

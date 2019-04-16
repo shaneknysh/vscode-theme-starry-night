@@ -1,34 +1,31 @@
 {
-    "name": "theme-dark-starry-night",
-    "displayName": "Starry Night",
-    "description": "Starry Night - subtle low contrast dark theme.",
-    "icon": "images/icon.png",
-    "version": "1.0.2",
-    "publisher": "jerry",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JerryGoodwill/vscode-theme-starry-night"
-    },
-
-    "contributes": {
-        "themes": [
-            {
-                "label": "Starry Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/starry-night-dark-theme.tmTheme"
-            }
-        ]
-    },
-
-    "galleryBanner": {
-		"color": "#1a1a1a",
-		"theme": "dark"
-	}
+  "name": "theme-dark-starry-night",
+  "displayName": "Starry Night",
+  "description": "Starry Night - subtle low contrast dark theme.",
+  "icon": "images/icon.png",
+  "version": "1.0.2",
+  "publisher": "shaneknysh",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaneknysh/vscode-theme-starry-night"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Starry Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry-night-dark-theme.tmTheme"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  }
 }
